@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-01-30T17:06:29.010082900Z</date>
+  <millis>1675098389010</millis>
+  <nanos>82900</nanos>
+  <sequence>0</sequence>
+  <logger>ActivityLog</logger>
+  <level>INFO</level>
+  <class>org.example.LoginForm</class>
+  <method>loginBtnActionPerformed</method>
+  <thread>35</thread>
+  <message>ADMIN-ADMIN LOGARE 1/30/23, 7:06 PM</message>
+</record>
+<record>
+  <date>2023-01-30T17:08:40.438170800Z</date>
+  <millis>1675098520438</millis>
+  <nanos>170800</nanos>
+  <sequence>1</sequence>
+  <logger>ActivityLog</logger>
+  <level>INFO</level>
+  <class>org.example.ManagementEleviForm</class>
+  <method>addBtn1ActionPerformed</method>
+  <thread>35</thread>
+  <message>ADMIN-ADMIN INSERT 1/30/23, 7:08 PM</message>
+</record>
+<record>
+  <date>2023-01-30T17:09:02.030930400Z</date>
+  <millis>1675098542030</millis>
+  <nanos>930400</nanos>
+  <sequence>2</sequence>
+  <logger>ActivityLog</logger>
+  <level>INFO</level>
+  <class>org.example.ManagementEleviForm</class>
+  <method>modifyBtnActionPerformed</method>
+  <thread>35</thread>
+  <message>ADMIN-ADMIN UPDATE 1/30/23, 7:09 PM</message>
+</record>
+<record>
+  <date>2023-01-30T17:12:47.145069400Z</date>
+  <millis>1675098767145</millis>
+  <nanos>69400</nanos>
+  <sequence>3</sequence>
+  <logger>ActivityLog</logger>
+  <level>INFO</level>
+  <class>org.example.DisplayForm</class>
+  <method>searchBtnActionPerformed</method>
+  <thread>35</thread>
+  <message>ADMIN-ADMIN SELECT 1/30/23, 7:12 PM</message>
+</record>
+<record>
+  <date>2023-01-30T17:12:47.146077400Z</date>
+  <millis>1675098767146</millis>
+  <nanos>77400</nanos>
+  <sequence>4</sequence>
+  <logger>ActivityLog</logger>
+  <level>INFO</level>
+  <class>org.example.DisplayForm</class>
+  <method>searchBtnActionPerformed</method>
+  <thread>35</thread>
+  <message>ADMIN-ADMIN SELECT 1/30/23, 7:12 PM</message>
+</record>
+<record>
+  <date>2023-01-30T17:12:50.600353800Z</date>
+  <millis>1675098770600</millis>
+  <nanos>353800</nanos>
+  <sequence>5</sequence>
+  <logger>ActivityLog</logger>
+  <level>INFO</level>
+  <class>org.example.DisplayForm</class>
+  <method>searchBtnActionPerformed</method>
+  <thread>35</thread>
+  <message>ADMIN-ADMIN SELECT 1/30/23, 7:12 PM</message>
+</record>
+<record>
+  <date>2023-01-30T17:12:50.601373200Z</date>
+  <millis>1675098770601</millis>
+  <nanos>373200</nanos>
+  <sequence>6</sequence>
+  <logger>ActivityLog</logger>
+  <level>INFO</level>
+  <class>org.example.DisplayForm</class>
+  <method>searchBtnActionPerformed</method>
+  <thread>35</thread>
+  <message>ADMIN-ADMIN SELECT 1/30/23, 7:12 PM</message>
+</record>
+<record>
+  <date>2023-01-30T17:12:52.903648700Z</date>
+  <millis>1675098772903</millis>
+  <nanos>648700</nanos>
+  <sequence>7</sequence>
+  <logger>ActivityLog</logger>
+  <level>INFO</level>
+  <class>org.example.DisplayForm</class>
+  <method>searchBtnActionPerformed</method>
+  <thread>35</thread>
+  <message>ADMIN-ADMIN SELECT 1/30/23, 7:12 PM</message>
+</record>
+</log>

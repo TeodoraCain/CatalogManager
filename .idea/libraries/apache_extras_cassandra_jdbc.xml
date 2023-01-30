@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="apache.extras.cassandra.jdbc" type="repository">
+    <properties maven-id="org.apache-extras.cassandra-jdbc:cassandra-jdbc:1.2.5" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache-extras/cassandra-jdbc/cassandra-jdbc/1.2.5/cassandra-jdbc-1.2.5.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/cassandra/cassandra-clientutil/1.2.5/cassandra-clientutil-1.2.5.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/13.0.1/guava-13.0.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/cassandra/cassandra-thrift/1.2.5/cassandra-thrift-1.2.5.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-lang/commons-lang/2.4/commons-lang-2.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.2/slf4j-api-1.7.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/thrift/libthrift/0.7.0/libthrift-0.7.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache-extras/cassandra-jdbc/cassandra-jdbc/1.2.5/cassandra-jdbc-1.2.5-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/cassandra/cassandra-clientutil/1.2.5/cassandra-clientutil-1.2.5-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/13.0.1/guava-13.0.1-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/cassandra/cassandra-thrift/1.2.5/cassandra-thrift-1.2.5-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-lang/commons-lang/2.4/commons-lang-2.4-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.2/slf4j-api-1.7.2-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/thrift/libthrift/0.7.0/libthrift-0.7.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
